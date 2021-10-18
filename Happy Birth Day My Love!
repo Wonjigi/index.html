@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Happy birthday father, I love you!!</title>
+    <style>
+        body {
+          background-image : url('Gift.jpg');
+          background-repeat: no-repeat;
+          background-size: cover;
+        }
+        h1 {
+          color: #8A2BE2;
+          font-family: cursive;
+        }
+        body {
+          color: #F4A460;
+          font-family: cursive;
+          font-size: 20px
+        }
+        h2 {
+
+        }
+
+    </style>
+  </head>
+  <body>
+    <h1>아들이 아버지께</h1>
+    <p> 아버지 생신축하드려요.<br>
+      제가 아버지 생신때 뭘 해드릴까 생각을 좀 해봤는데 제가 최근에 코딩관련 공부도 하고 있고 해서 이런 색으로 축하를 드리는게 어떨까 해서 함 적어봐요.<br>
+      그래서 제가 드리고 싶던 말은 생신축하 드리고 오늘 하루 당연히 가족끼리 좋은 시간 보내시겠지만 제가 옆에 못 있어드려서 죄송해요. 여기서도 뭔가 뚜렸한, 만족할 만한 소식을 전해드린것도 아니고 할말이 없네요.<br>
+      오늘 맛있는거 드시고 오늘만큼은 가족끼리 좋은, 행복한 시간 보내셨으면 좋겠고, 제가 미역국은 못해드려도 꼭 미역국 챙겨 드시고 최고의 하루 보내셨으면 좋겠어요. 제가 생각 많이 하고 사랑합니다.
+    </p>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Happy birthday father, I love you!!</title>
+    <style>
+        body {
+          background-image : url('Gift.jpg');
+          background-repeat: no-repeat;
+          background-size: cover;
+        }
+        h1 {
+          color: #EE82EE;
+          font-family: cursive;
+        }
+        body {
+          color: #F4A460;
+          font-family: cursive;
+          font-size: 20px
+        }
+        h2 {
+          color: #00FFFF;
+        }
+
+    </style>
+  </head>
+  <body>
+    <h1>아부지 생신축하 드려요!!</h1>
+    <a href="HBD!.html"target="_blank"title="이것좀 읽어보셔요"><h2>아들의 축하 메세지</h2></a>
+    <p>울 아부지가 태어난 탄생일인 음력 1970년 <a href="https://www.etoday.co.kr/news/view/1663784"target="_blank"title="아버지 생신축하드려요!!">9월 14일</a>(원래는 양력으로 치기는 해요-링크...)이며, 별자리는 <a href="https://sseemi.tistory.com/3"target="_blank"title="아버지 사랑해요!!">처녀 자리</a>라고 한다.
+행복한 한 가정의 가장이자 자식들에겐 멋지고 듬직하고 가끔은 재밌는, 그렇게 자식들의 위치에서 생각하려 노력하고, 자식들과 친해지기 위해, 여러 방면으로 항상 노력하시는 누구보다 자랑스러운 아버지 이시다.<br>
+ps. 그 링크들에 마우스 가져다 놓으면은 제가 조그만 하게 적은 simple link 있거든요? 클릭하시기 전에 마우스 한번만 올려다 놓아 보세요
+      </p>
+
+
+  </body>
+</html>
